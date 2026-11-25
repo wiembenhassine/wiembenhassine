@@ -1,16 +1,25 @@
-## Hi there 👋
+# Wiem Ben Hassine
 
-<!--
-**wiembenhassine/wiembenhassine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Élève-ingénieure en Data Engineering & IA** (ESPRIT, Tunis), en échange en France à l'ESEO. Basée à Lyon.
 
-Here are some ideas to get you started:
+Je recherche un **stage de fin d'études de 6 mois à partir de février 2027** en Data / IA / LLM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ce sur quoi je travaille
+
+**LLM & IA agentique** : pipelines RAG, agents, tool calling, évaluation des réponses (LangChain, ChromaDB, Ollama, Claude API)
+
+**Machine Learning & MLOps** : XGBoost, TensorFlow, MLflow, FastAPI, Docker, Kubernetes, CI/CD
+
+**Data & BI** : Python (Pandas), SQL, PostgreSQL, Power BI
+
+## Projets à la une
+
+**[esg-reporting](https://github.com/wiembenhassine/esg-reporting)** : génération automatique de rapports ESG avec un pipeline LLM / RAG modulaire (stage ESPRIT Tech, 2026)
+
+**[Nexo](https://github.com/wiembenhassine/Esprit-PIDATA-4DATA-2025-2026-Nexo)** : plateforme de données et de ML de bout en bout pour la 5G (projet d'équipe, 2025-2026)
+
+**[5G Handover Optimization](https://github.com/wiembenhassine/Esprit-PI-4DATA-2026-5G-Handover-Optimization)** : prédiction et optimisation du handover 5G (Scikit-learn, XGBoost, TensorFlow)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/wiem-benhassine) · wiem.benhassine@esprit.tn
